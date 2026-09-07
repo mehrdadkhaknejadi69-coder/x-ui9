@@ -1,0 +1,72 @@
+{
+  "links": {
+    "5dfd4000-fe72-da52-74d0-c4a6d34d542e": {
+      "label": "لینک پیش‌فرض",
+      "limit_bytes": 0,
+      "used_bytes": 0,
+      "created_at": "2026-09-07T16:02:59.393210",
+      "active": true,
+      "expires_at": null,
+      "note": "",
+      "is_default": true,
+      "sub_id": null,
+      "protocol": "vless-ws",
+      "fingerprint": "chrome",
+      "alpn": "http/1.1",
+      "port": 443,
+      "ip_limit": 0,
+      "speed_limit_bytes": 0,
+      "connection_limit": 0,
+      "fragment": "off",
+      "clean_ips": [],
+      "alarm_enabled": false,
+      "category_id": "0",
+      "config_count": 1,
+      "usage_history": [],
+      "parent_inbound_id": null
+    }
+  },
+  "subs": {},
+  "categories": {
+    "0": {
+      "id": "0",
+      "name": "عمومی",
+      "number": 0,
+      "limit_bytes": 0,
+      "expires_days": 0,
+      "connection_limit": 0,
+      "speed_limit_bytes": 0,
+      "ip_limit": 0,
+      "clean_ips": [],
+      "random_name": false,
+      "single_user": false,
+      "created_at": "2026-09-07T16:02:59.393147"
+    },
+    "1": {
+      "id": "1",
+      "name": "VIP",
+      "number": 1,
+      "limit_bytes": 0,
+      "expires_days": 0,
+      "connection_limit": 1,
+      "speed_limit_bytes": 0,
+      "ip_limit": 1,
+      "clean_ips": [],
+      "random_name": false,
+      "single_user": true,
+      "created_at": "2026-09-07T16:02:59.393163"
+    }
+  },
+  "password_hash": "3f5028ae5830f9a0f755ae11a424a56d1df1146632efc08fc279b774e91282fe",
+  "admins": {},
+  "daily_stats": {},
+  "settings": {
+    "public_base_url": "",
+    "tcp_public_host": "",
+    "tcp_public_port": "",
+    "bot_token": "",
+    "bot_admin_ids": "",
+    "bot_auto_start": false
+  },
+  "saved_at": "2026-09-07T16:11:09.011964"
+}
